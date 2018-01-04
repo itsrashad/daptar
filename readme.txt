@@ -5,7 +5,7 @@ Tags: two-columns, right-sidebar, flexible-header, custom-background, editor-sty
 
 Requires at least: 4.0
 Tested up to: 4.9.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
@@ -25,8 +25,10 @@ Responsive Daptar wordpress theme which is designed with alpha version bootstrap
 Daptar includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
+= 1.0.1 - Jan 04 2018 =
+* Update screenshort
 
-= 1.0 - May 12 2015 =
+= 1.0.0 - Jan 03 2018 =
 * Initial release
 
 == Credits ==
